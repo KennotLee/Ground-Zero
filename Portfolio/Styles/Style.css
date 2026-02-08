@@ -3,3 +3,19 @@ div {
     margin-left: 30px;
     margin-right: 30px;
 }
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.see-also {
+    font-size: 14px;
+    font-style: italic;
+    margin: 0px;
+    margin-left: 20px;
+    opacity: 70%;
+}
